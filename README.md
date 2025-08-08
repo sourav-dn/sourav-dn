@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-<!--   <img height="200" src="https://i.ibb.co/hJGTYJsR/github-banner2.jpg"  /> -->
-  ![](https://i.ibb.co/hJGTYJsR/github-banner2.jpg)
+  <img height="200" src="https://i.ibb.co/hJGTYJsR/github-banner2.jpg"  />
 </div>
 
 ###
